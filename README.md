@@ -9,3 +9,7 @@ in the terminal enter:
 after it is executed enter:
 
 `update-database`
+
+**Admin access:**
+admin@admin.com
+ASDasd123!!!!
